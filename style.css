@@ -17,3 +17,9 @@
     max-width:200px;
     max-height:200px;
 }
+body{
+    background: linear-gradient(to bottom right, #ffffff 0%, #4d4d4d 50%);
+}
+p{
+    color:lightgray;
+}
