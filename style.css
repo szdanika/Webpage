@@ -6,11 +6,6 @@
 {
     display:block;
 }
-
-.home
-{
-    text-align: center;
-}
 .picture
 {
     border-radius: 50%;
@@ -22,4 +17,19 @@ body{
 }
 p{
     color:lightgray;
+}
+.LeftSide{
+    text-align: left;
+    width: 50%;
+    height: 70%;
+    float: left;
+    border-color: red;
+    border-style: dotted;
+}
+.RightSide{
+    
+}
+.Name{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
 }
